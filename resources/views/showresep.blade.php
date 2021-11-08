@@ -1,6 +1,6 @@
 @extends('layout.mainlayout')
 
-@section('title','Resep')
+@section('title','Show Resep')
 @section('pagetitle','Detail Resep')
 
 @section('main_content')

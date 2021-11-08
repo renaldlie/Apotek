@@ -1,6 +1,6 @@
 @extends('layout.mainlayout')
 
-@section('title','Obat')
+@section('title','Show Obat')
 @section('pagetitle','Detail Obat')
 
 @section('main_content')
